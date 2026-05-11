@@ -27,8 +27,8 @@ tolerances might be a little tight; this is about as far as I'm willing to take 
 
 ** Extra Long Metric Hex Screwdrivers here : https://www.amazon.com/dp/B0CYQ24KZ6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_7
 
-** 19mm Ring led Momentary Button : https://a.co/d/0iyHGIdv
+** 19mm Ring led Momentary Reset Button : https://a.co/d/0iyHGIdv
 
-** 19mm Ring Led Latching Button : https://a.co/d/0dyEDW69 
+** 19mm Ring Led Latching Power Button : https://a.co/d/0dyEDW69 
 
 credit to S.Ramirez & AFMJohnson for this build.
