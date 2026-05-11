@@ -19,16 +19,16 @@ tolerances might be a little tight; this is about as far as I'm willing to take 
 
 ** Screen  available here : https://www.amazon.com/dp/B0DJ6H5BFL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
 
-*** power distribution proto board found here: https://www.amazon.com/dp/B0BSHG21P5?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
+** power distribution proto board found here: https://www.amazon.com/dp/B0BSHG21P5?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
 
-**** Mini-micro Jst 2.0 connectors here : https://www.amazon.com/dp/B09JZC28DP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_9
+** Mini-micro Jst 2.0 connectors here : https://www.amazon.com/dp/B09JZC28DP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_9
 
-***** Acrylic jewel disk here : https://www.amazon.com/dp/B09MFP2NT6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1
+** Acrylic jewel disk here : https://www.amazon.com/dp/B09MFP2NT6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1
 
-****** Extra Long Metric Hex Screwdrivers here : https://www.amazon.com/dp/B0CYQ24KZ6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_7
+** Extra Long Metric Hex Screwdrivers here : https://www.amazon.com/dp/B0CYQ24KZ6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_7
 
-******* 19mm Ring led Momentary Button : https://a.co/d/0iyHGIdv
+** 19mm Ring led Momentary Button : https://a.co/d/0iyHGIdv
 
-******* 19mm Ring Led Latching Button : https://a.co/d/0dyEDW69 
+** 19mm Ring Led Latching Button : https://a.co/d/0dyEDW69 
 
 credit to S.Ramirez & AFMJohnson for this build.
