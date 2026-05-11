@@ -20,6 +20,10 @@ Video-out can be original analogue multi-out Or upgraded to HDMI w/Bitfunx Or Pl
 
 Tolerances might be a little tight; this is about as far as I'm willing to take this project, so if there's anything missing that you feel like building or adding on by all means help build this project into your own!
 
+0.15 Print quality, 20% infill most parts. (I ran it through Cura with a Neptune 2)
+
+PLA+ for that extra toughness (trust me), download the photos file for reference. Print top half with supports only on inside of the 4 screw-holes, same with base, most other parts don’t need support. 
+
 Print screen hinges w/99% infill if you decide you want to build that on..
 
 ** Screen  available here : https://www.amazon.com/dp/B0DJ6H5BFL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
