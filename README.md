@@ -16,6 +16,7 @@ for this project you'll need:
 - Extra Long Metric Hex Screwdrivers (listed below)
 
 Power board can be original or upgraded to USB-C.
+Video-out can be original analogue multi-out Or upgraded to HDMI w/Bitfunx Or Pluto-II
 
 Tolerances might be a little tight; this is about as far as I'm willing to take this project, so if there's anything missing that you feel like building or adding on by all means help build this project into your own!
 
