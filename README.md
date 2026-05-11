@@ -6,7 +6,7 @@ A modular, 3D printable Gamecube Project
 
 for this project you'll need:
 - A working gamecube dol-101 motherboard (with SP1 & SP2 REMOVED),  working fan AND controller port pcb
-- A Soldering setup (preferably one that also has a heat gun attatchment)
+- A Soldering setup (preferably one that also has a heat gun attatchment; electric solder sucker HIGHLY RECOMMENDED)
 - Both Momentary & Latching 19mm Ring Led Buttons (Arcade styles) [Listed Below]
 - Gamecube dol-001 lid jewel or acrylic disk (listed below)
 - M2, M3, M4 size screws mostly 6-10mm along with matching metal threaded heat inserts otherwise you'll have broken plastic. 
