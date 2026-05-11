@@ -15,7 +15,9 @@ for this project you'll need:
 - PLA+ 
 - Extra Long Metric Hex Screwdrivers (listed below)
 
-tolerances might be a little tight; this is about as far as I'm willing to take this project, so if there's anything missing that you feel like building or adding on by all means help build this project into your own!
+Power board can be original or upgraded to USB-C.
+
+Tolerances might be a little tight; this is about as far as I'm willing to take this project, so if there's anything missing that you feel like building or adding on by all means help build this project into your own!
 
 ** Screen  available here : https://www.amazon.com/dp/B0DJ6H5BFL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
 
