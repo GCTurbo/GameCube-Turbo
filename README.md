@@ -1,6 +1,8 @@
 # GameCube-Turbo
 A modular, 3D printable Gamecube Project
 
+<img width="3874" height="3874" alt="image" src="https://github.com/user-attachments/assets/1d14d5ee-748b-4ee5-a647-e79f982fcec8" />
+
 
 for this project you'll need:
 - A working gamecube dol-101 motherboard (with SP1 & SP2 REMOVED),  working fan AND controller port pcb
