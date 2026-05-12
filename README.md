@@ -10,7 +10,7 @@ for this project you'll need:
 - Both Momentary & Latching 19mm Ring Led Buttons (Arcade styles) [Listed Below]
 - Gamecube dol-001 lid jewel or acrylic disk (listed below)
 - M2, M3, M4 size screws mostly 6-10mm along with matching metal threaded heat inserts otherwise you'll have broken plastic. 
-- 4 main screws in the bottom are 25mm M3 screws, there are 4 M3 nuts that need to be placed internally while the "Top half" is printing, without those bolts you will have nothing to tighten into.
+- (4) Main screws in the bottom are 25mm M3 screws, there are (4) M3 nuts that need to be placed internally while the "Top half" is printing, without those nuts you will have nothing to tighten into.
 -  mag lid uses (8) 5x2.8mm magnets to keep it closed and shut.
 - PLA+ 
 - Extra Long Metric Hex Screwdrivers (listed below)
