@@ -26,13 +26,13 @@ PLA+ for that extra toughness (trust me), download the photos file for reference
 
 Print screen hinges w/99% infill if you decide you want to build that on..
 
-** Screen  available here : https://www.amazon.com/dp/B0DJ6H5BFL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
+** (OPTIONAL) Screen  available here : https://www.amazon.com/dp/B0DJ6H5BFL?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1
 
 ** power distribution proto board found here: https://www.amazon.com/dp/B0BSHG21P5?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1
 
 ** Mini-micro Jst 2.0 connectors here : https://www.amazon.com/dp/B09JZC28DP?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_9
 
-** Acrylic jewel disk here : https://www.amazon.com/dp/B09MFP2NT6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1
+** (OPTIONAL) Acrylic jewel disk here : https://www.amazon.com/dp/B09MFP2NT6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_3&th=1
 
 ** Extra Long Metric Hex Screwdrivers here : https://www.amazon.com/dp/B0CYQ24KZ6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_7
 
