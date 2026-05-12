@@ -22,7 +22,7 @@ Tolerances might be a little tight; this is about as far as I'm willing to take 
 
 0.15 Print quality, 20% infill most parts. (I ran it through Cura with a Neptune 2)
 
-PLA+ for that extra toughness (trust me), download the photos file for reference. Print base with supports only on inside of the 4 screw-holes, most other parts don’t need support. 
+PLA+ for that extra toughness (trust me), download the photos file for reference. Print base with supports only on inside of the 4 corner screw-holes, most other parts don’t need support. 
 
 Print screen hinges w/99% infill if you decide you want to build that on..
 
