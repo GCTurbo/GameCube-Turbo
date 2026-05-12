@@ -18,6 +18,8 @@ for this project you'll need:
 Power board can be original or upgraded to USB-C.
 Video-out can be original analogue multi-out Or upgraded to HDMI w/Bitfunx Or Pluto-II
 
+You’ll need to make your own power distribution board (basically a mini power extension) with the protoboard listed below cut into chunks along with the reset button jumps. Also the power distribution board mount is screwed in from underneath memory card slot A with two 20mm M2 screws (DO NOT OVER TIGHTEN.)
+
 Tolerances might be a little tight; this is about as far as I'm willing to take this project, so if there's anything missing that you feel like building or adding on by all means help build this project into your own!
 
 0.15 Print quality, 20% infill most parts. (I ran it through Cura with a Neptune 2)
@@ -39,5 +41,14 @@ Print screen hinges w/99% infill if you decide you want to build that on..
 ** 19mm Ring led Momentary Reset Button : https://a.co/d/0iyHGIdv
 
 ** 19mm Ring Led Latching Power Button : https://a.co/d/0dyEDW69 
+
+** M2-5 Heat Threaded Inserts :
+https://a.co/d/07A66DVD
+
+** M2-5 Bolts/Screws :
+https://a.co/d/04uIS9kk
+
+** M3 30-50mm Bolts :
+https://a.co/d/0b5H9LbZ
 
 credit to S.Ramirez & AFMJohnson for this build.
