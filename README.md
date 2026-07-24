@@ -62,4 +62,4 @@ https://a.co/d/08AUGbut
 ** Other USB-C (Optional)
 https://a.co/d/01OP3RCn
 
-credit to S.Ramirez & AFMJohnson for this build.
+credit to S.Ramirez Glass & AFMJohnson for this build.
