@@ -54,7 +54,8 @@ https://a.co/d/0b5H9LbZ
 ** Silicone Plugs (Bottom Hole Covers/Console Feet) :
 https://a.co/d/0ct0Kiou
 
-** Coiled HDMI Cable For Top Screen (Optional) :
+** Coiled HDMI Cable For Top Screen (Optional) : 
+
 https://a.co/d/06LTa1vi
 
 ** 5A Buck-Down PCB (Optional) :
