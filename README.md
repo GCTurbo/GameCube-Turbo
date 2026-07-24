@@ -55,7 +55,6 @@ https://a.co/d/0b5H9LbZ
 https://a.co/d/0ct0Kiou
 
 ** Coiled HDMI Cable For Top Screen (Optional) : 
-
 https://a.co/d/06LTa1vi
 
 ** 5A Buck-Down PCB (Optional) :
