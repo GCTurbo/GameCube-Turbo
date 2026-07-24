@@ -51,15 +51,16 @@ https://a.co/d/04uIS9kk
 ** M3 30-50mm Bolts :
 https://a.co/d/0b5H9LbZ
 
-** Silicone Plugs (Bottom Hole Covers/Console Feet) https://a.co/d/0ct0Kiou
+** Silicone Plugs (Bottom Hole Covers/Console Feet) :
+https://a.co/d/0ct0Kiou
 
-** Coiled HDMI Cable For Top Screen (Optional)
+** Coiled HDMI Cable For Top Screen (Optional) :
 https://a.co/d/06LTa1vi
 
-** 5A Buck-Down PCB (Optional)
+** 5A Buck-Down PCB (Optional) :
 https://a.co/d/08AUGbut
 
-** Other USB-C (Optional)
+** Other USB-C (Optional) :
 https://a.co/d/01OP3RCn
 
 credit to S.Ramirez Glass & AFMJohnson for this build.
